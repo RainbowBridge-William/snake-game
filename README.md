@@ -1,2 +1,2 @@
 # snake-game
-A webapp for 8-bit snake game
+8-bit snake game in JS
